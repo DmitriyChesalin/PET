@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useState } from "react";
 import MySlider from "./Slider/MySlider";
 import "./order.css"
 import Modal from "./Modal";
