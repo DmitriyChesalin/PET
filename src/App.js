@@ -25,8 +25,6 @@ function App() {
         </button>
         <Modal isOpen={open} onClose={handleClose}>
           <h3>чтобы забронировать стол, позвоните по номеру +7 499 999 999</h3>
-
-
         </Modal>
       </div>
     </div>
